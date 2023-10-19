@@ -1,7 +1,5 @@
-This documentation describes how to use the Pavel robotic 
-toothbrush.
- “Pavel robotic toothbrush” to “Pavel automated 
-toothbrush” ... (Line added on Notepad editor as part Merge practice)
+This documentation describes how to use the Pavel robotic toothbrush.
+ “Pavel robotic toothbrush” now changed to “Pavel automated toothbrush” ... (Line added on Notepad editor as of part of Merge Conflict practice)
 
 
 Note that this toothbrush is not safe to use for children, 
